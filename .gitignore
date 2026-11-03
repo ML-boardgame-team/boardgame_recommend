@@ -1,0 +1,15 @@
+# 로컬 데이터와 실행 결과
+/boardgame_rec/
+/boardgame_rec_backup/
+*.zip
+
+# 노트북 임시 파일과 Python 실행 환경
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 로컬 환경 설정
+.env
+.env.*
